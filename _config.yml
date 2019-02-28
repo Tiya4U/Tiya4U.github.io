@@ -87,5 +87,8 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Tiya4U/Tiya4U.github.io.git
+  repo: 
+    github: https://github.com/Tiya4U/Tiya4U.github.io.git
+    coding: https://git.dev.tencent.com/Tiya4U/tiya4u.git
+
   branch: master
