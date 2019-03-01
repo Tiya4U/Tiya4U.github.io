@@ -5,9 +5,9 @@
   <subtitle>ty&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://tiya4u.coding.me/"/>
   <updated>2019-02-28T07:10:55.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://tiya4u.coding.me/</id>
   
   <author>
     <name>tianyao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://yoursite.com/2019/02/28/My-New-Post/"/>
-    <id>http://yoursite.com/2019/02/28/My-New-Post/</id>
+    <link href="https://tiya4u.coding.me/2019/02/28/My-New-Post/"/>
+    <id>https://tiya4u.coding.me/2019/02/28/My-New-Post/</id>
     <published>2019-02-28T07:10:55.000Z</published>
     <updated>2019-02-28T07:10:55.000Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/02/28/hello-world/"/>
-    <id>http://yoursite.com/2019/02/28/hello-world/</id>
+    <link href="https://tiya4u.coding.me/2019/02/28/hello-world/"/>
+    <id>https://tiya4u.coding.me/2019/02/28/hello-world/</id>
     <published>2019-02-28T01:40:22.000Z</published>
     <updated>2019-02-28T01:40:22.000Z</updated>
     
