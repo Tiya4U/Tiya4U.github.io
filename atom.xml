@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tiya4u.coding.me/"/>
-  <updated>2019-02-28T07:10:55.000Z</updated>
+  <updated>2019-03-05T03:55:08.000Z</updated>
   <id>https://tiya4u.coding.me/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My Second Post</title>
+    <link href="https://tiya4u.coding.me/2019/03/05/My-Second-Post/"/>
+    <id>https://tiya4u.coding.me/2019/03/05/My-Second-Post/</id>
+    <published>2019-03-05T03:55:08.000Z</published>
+    <updated>2019-03-05T03:55:08.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
