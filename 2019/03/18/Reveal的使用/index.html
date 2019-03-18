@@ -5,16 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>categories - Tiya4U</title>
+    <title>Tiya4U - ty&#39;s blog</title>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate">
     <meta name="keywords" content="iOS,"> 
-    <meta name="description" content="iOS more...,
-hexo
-
-
-"> 
+    <meta name="description" content="iOS more...,"> 
     <meta name="author" content="tianyao"> 
     <link rel="alternative" href="/atom.xml" title="Tiya4U" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -64,7 +60,15 @@ hexo
 
         </div>
         <div class="content markdown">
-            
+            <h2 id="模拟器调试"><a href="#模拟器调试" class="headerlink" title="模拟器调试"></a>模拟器调试</h2><ol>
+<li>添加 Symbolic Breakpoint</li>
+<li>Symbol中填入UIApplicationMain</li>
+<li>点击Add Action按钮</li>
+<li>填写以下内容<br>expr (Class)NSClassFromString(@”IBARevealLoader”) == nil ? (void <em>)dlopen(“/Applications/Reveal.app/Contents/SharedSupport/iOS-Libraries/RevealServer.framework/RevealServer”, 0x2) : ((void</em>)0)</li>
+<li>勾选Automatically continue after evaluating actions</li>
+<li>键选择断点,选择Move Breakpoint To → User</li>
+</ol>
+
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
                 <source type="audio/mpeg" src>
